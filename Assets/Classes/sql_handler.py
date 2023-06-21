@@ -1,11 +1,11 @@
 from sqlalchemy import create_engine, Column, Integer, String, Float, DateTime, exists
-from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship, backref
 from sqlalchemy.exc import SQLAlchemyError
+from sqlalchemy import Column, Integer, String, Float, DateTime
+from sqlalchemy.ext.declarative import declarative_base
 
 
 Base = declarative_base()
-
 
 class Item(Base):
     __tablename__ = 'item'
@@ -31,6 +31,29 @@ class Item(Base):
     raindrop_collection = Column(String)
     raindrop_collection_id = Column(Integer)
     status = Column(String)
+
+    def __init__(self, item_data):
+        self.item_title = item_data.get("title")
+        self.item_picture = item_data.get("item_picture")
+        self.item_link = item_data.get("item_link")
+        self.item_color = item_data.get("color")
+        self.item_price = item_data.get("price")
+        self.item_description = item_data.get("description")
+        self.item_size = item_data.get("size")
+        self.item_brand = item_data.get("brand")
+        self.item_initial_views = item_data.get("views")
+        self.item_current_views = item_data.get("views")
+        self.item_initial_followers = item_data.get("followers")
+        self.item_current_followers = item_data.get("followers")
+        self.item_location = item_data.get("location")
+        self.item_date_added = item_data.get("date_added")
+        self.date_scrapped = item_data.get("date_scrapped")
+        self.query = item_data.get("query")
+        self.session_token = item_data.get("session_token")
+        self.raindrop_collection = item_data.get("raindrop_collection")
+        self.raindrop_collection_id = item_data.get("raindrop_collection_id")
+        self.status = item_data.get("status")
+
 
 
 class DatabaseHandler:
