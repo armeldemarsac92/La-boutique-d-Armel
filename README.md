@@ -1,5 +1,9 @@
 # Vinted Curation Bot - A Rebel in the Fashion World 🚀
 
+## NOTE
+
+After two enriching months at Epitech, I've gained invaluable insights and honed my coding skills. The initial version of this project was conceived when I was just beginning my journey into the world of coding, and as expected, it had its fair share of beginner's chaos. Now, armed with knowledge and experience from Epitech, I'm revisiting the project to elevate it. This new version is a testament to my learning curve and my commitment to continuous improvement. I'm excited to bring a refined and enhanced experience to the community. Please check the v2.0 branch to find an updated readme. The advancement status can be found in the linked "la boutique d'Armel" github project.
+
 ## Overview
 
 Welcome to the Vinted Curation Bot, where technology meets sustainable fashion, and where we say a big "No Thanks" to the fast-fashion industry. This bot is not just a piece of code; it's a statement, a stand against the ecological and ethical nightmares of the fashion industry. It’s a blend of tech and eco-consciousness, automating the curation of second-hand fashion items from Vinted, and serving them up to style-hungry, yet eco-aware folks.
