@@ -6,4 +6,4 @@ Frontend:
 -frontend/**
 
 # Add 'label2' to any file changes within 'example2' folder
-Symfony: symfony-docker/*
+Symfony: symfony/*
