@@ -1,3 +1,13 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from datetime import date
+import datetime
+import re
+
+
 class WebScraper:
     def __init__(self):
         self.browser = Browser()
