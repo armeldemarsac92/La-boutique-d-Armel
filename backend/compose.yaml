@@ -42,6 +42,18 @@ services:
       - "5672:5672"
     volumes:
       - ./rabbitMQ:/var/lib/rabbitmq
+  proxymanager:
+    image: luminati/luminati-proxy
+    command: proxy-manager
+    ports:
+      - "8085:22999" # Web console and API
+      - "22226:22225" # Drop-in
+      - "24001:24000" # First configurable proxy
+    volumes:
+      - ./proxymanager:/var/lib/proxymanager
+    restart: unless-stopped
+
+  
 
 # Mercure is installed as a Caddy module, prevent the Flex recipe from installing another service
 ###> symfony/mercure-bundle ###
