@@ -4,15 +4,16 @@ services:
   php:
     image: ${IMAGES_PREFIX:-}app-php
     restart: unless-stopped
+    depends_on:
+      - mariadb
     environment:
-      SERVER_NAME: ${SERVER_NAME:-localhost}, php:8080
+      SERVER_NAME: php.local
       MERCURE_PUBLISHER_JWT_KEY: ${CADDY_MERCURE_JWT_SECRET:-!ChangeThisMercureHubJWTSecretKey!}
       MERCURE_SUBSCRIBER_JWT_KEY: ${CADDY_MERCURE_JWT_SECRET:-!ChangeThisMercureHubJWTSecretKey!}
       TRUSTED_PROXIES: ${TRUSTED_PROXIES:-127.0.0.0/8,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16}
       TRUSTED_HOSTS: ^${SERVER_NAME:-example\.com|localhost}|php$$
       # Run "composer require symfony/orm-pack" to install and configure Doctrine ORM
-      DATABASE_URL: postgresql://${POSTGRES_USER:-app}:${POSTGRES_PASSWORD:-!ChangeMe!}@database:5432/${POSTGRES_DB:-app}?serverVersion=${POSTGRES_VERSION:-15}&charset=${POSTGRES_CHARSET:-utf8}
-      # Run "composer require symfony/mercure-bundle" to install and configure the Mercure integration
+      DATABASE_URL: "mysql://${MYSQL_USER}:${MYSQL_PASSWORD}@mariadb:3306/${MYSQL_DATABASE}?serverVersion={MYSQL_VERSION}&charset={MYSQL_CHARSET}"      # Run "composer require symfony/mercure-bundle" to install and configure the Mercure integration
       MERCURE_URL: ${CADDY_MERCURE_URL:-http://php/.well-known/mercure}
       MERCURE_PUBLIC_URL: https://${SERVER_NAME:-localhost}/.well-known/mercure
       MERCURE_JWT_SECRET: ${CADDY_MERCURE_JWT_SECRET:-!ChangeThisMercureHubJWTSecretKey!}
@@ -36,6 +37,9 @@ services:
         published: ${HTTP3_PORT:-443}
         protocol: udp
 
+      
+
+
   rabbitmq:
     image: rabbitmq:management
     hostname: "rabbitmq"
@@ -50,7 +54,7 @@ services:
     volumes:
       #- ./rabbitmq/config:/etc/rabbitmq
       - ./rabbitmq/data:/var/lib/rabbitmq/mnesia
-      
+
   proxymanager:
     hostname : "proxymanager"
     image: luminati/luminati-proxy
@@ -78,13 +82,14 @@ services:
     restart: unless-stopped
 
   pythonscrapper:
+    depends_on:
+      - rabbitmq
     build: ./pythonscrapper
     ports:
       - "5000:80"
     volumes:
       - ./pythonscrapper:/var/lib/pythonscrapper
-    depends_on:
-      - rabbitmq
+
 
 
   
