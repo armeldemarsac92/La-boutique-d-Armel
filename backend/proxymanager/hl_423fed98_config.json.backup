@@ -1,0 +1,150 @@
+{
+  "_defaults": {
+    "account_id": "hl_423fed98",
+    "customer": "hl_423fed98",
+    "customer_id": "hl_423fed98",
+    "debug": "none",
+    "har_limit": 0,
+    "logs": 10000,
+    "lpm_auth": "none",
+    "lpm_token": "Y4wN5waf7Y5xHb6S6iRkydijVF8kGfid|hl_423fed98",
+    "password": "ye4t8wea7bi2",
+    "version": "1.417.160",
+    "www_whitelist_ips": [
+      "192.168.0.0/16",
+      "172.16.0.0/12"
+    ],
+    "zone": "data_center"
+  },
+  "proxies": [
+    {
+      "av_server_url": "127.0.0.1:1343",
+      "carrier": "",
+      "city": "",
+      "country": "fr",
+      "headers": [
+        {
+          "name": "user-agent",
+          "value": "random_desktop"
+        },
+        {
+          "name": "accept-language",
+          "value": "en-US,en;q=0.9"
+        }
+      ],
+      "info": "true",
+      "pool_size": 0,
+      "port": 24000,
+      "preset": "rotating",
+      "proxy_connection_type": "https",
+      "resolution": "1024x600",
+      "rotate_session": true,
+      "rules": [
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "https://www.vinted.fr/api/v2/ads"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "active": false,
+          "trigger_type": "url",
+          "url": "https://www.vinted.fr/api/v2/"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "https://aax-eu.amazon-adsystem.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "https://match.adsrvr.org/"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "doubleclick.net"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "criteo.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "optimizationguide-pa.googleapis.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "cookielaw.org"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "pubmatic.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "rubiconproject.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "smartadserver.com"
+        },
+        {
+          "action": {
+            "null_response": "true"
+          },
+          "action_type": "null_response",
+          "trigger_type": "url",
+          "url": "https://images1.vinted.net/"
+        }
+      ],
+      "session_termination": "true",
+      "ssl": true,
+      "state": "",
+      "timezone": "Europe/Paris",
+      "zip": "",
+      "zone": "data_center"
+    }
+  ],
+  "ts": "2023-11-03T17:12:20.592Z"
+}

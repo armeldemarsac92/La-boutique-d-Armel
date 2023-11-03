@@ -35,23 +35,57 @@ services:
       - target: 443
         published: ${HTTP3_PORT:-443}
         protocol: udp
+
   rabbitmq:
     image: rabbitmq:management
+    hostname: "rabbitmq"
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "SWQOKODSQALRPCLNMEQG"
+      RABBITMQ_DEFAULT_USER: "user"
+      RABBITMQ_DEFAULT_PASS: "password"
+
     ports:
       - "15672:15672"  # RabbitMQ management UI
       - "5672:5672"
     volumes:
-      - ./rabbitMQ:/var/lib/rabbitmq
+      #- ./rabbitmq/config:/etc/rabbitmq
+      - ./rabbitmq/data:/var/lib/rabbitmq/mnesia
+      
   proxymanager:
+    hostname : "proxymanager"
     image: luminati/luminati-proxy
-    command: proxy-manager
+    command: proxy-manager --config /var/lib/lpm-vol/_data/hl_423fed98_config.json
     ports:
       - "8085:22999" # Web console and API
       - "22226:22225" # Drop-in
       - "24001:24000" # First configurable proxy
     volumes:
-      - ./proxymanager:/var/lib/proxymanager
+      - ./proxymanager:/var/lib/lpm-vol/_data
     restart: unless-stopped
+
+  mariadb:
+    image: mariadb:latest
+    container_name: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: avlulacjvaa
+      MYSQL_DATABASE: db_test
+      MYSQL_USER: armeldemarsac
+      MYSQL_PASSWORD: avlulacjvaa
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mariadb_data:/var/lib/mysql
+    restart: unless-stopped
+
+  pythonscrapper:
+    build: ./pythonscrapper
+    ports:
+      - "5000:80"
+    volumes:
+      - ./pythonscrapper:/var/lib/pythonscrapper
+    depends_on:
+      - rabbitmq
+
 
   
 
@@ -62,5 +96,10 @@ services:
 volumes:
   caddy_data:
   caddy_config:
+  mariadb_data:
+  #lpm-vol:
+  #rabbitmq_data:
+  #pythonscrapper:
+  
 ###> symfony/mercure-bundle ###
 ###< symfony/mercure-bundle ###
