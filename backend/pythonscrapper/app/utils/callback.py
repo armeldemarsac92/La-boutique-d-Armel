@@ -40,24 +40,37 @@ def process_message(ch, method, properties, body, api_connection, item_queue):
     #elif message['message_type'] == 'fetch_urls':
         
 
-def loop(item, paramlist):
-    # Check if the 'catalog' key has items in it
-    if 'catalogs' in item and len(item['catalogs']) > 0:
-        for catalog_item in item['catalogs']:
-            # Recursively call loop on each item in the catalog
-            loop(catalog_item, paramlist)
+def loop(item, paramlist,level, parent):
+    # Create a dictionary for parameters
+    newlevel = level
+    param = {}
+    param['level'] = level
+    param['parent'] = parent
+    param['id'] = item.get('id', None)  # Use .get() to handle cases where 'id' might not exist
+    param['title'] = item.get('title', None)  # Same as above for 'title'
+    param['size_group_id'] = item.get('size_group_id', None)
+    param['size_group_ids'] = []
+    
+    # Get size_group_ids, which is expected to be a dictionary with numeric keys
+    size_group_ids_dict = item.get('size_group_ids', {})
+    if isinstance(size_group_ids_dict, dict):
+        param['size_group_ids'] = list(size_group_ids_dict.values())  # Collect all the values into a list
     else:
-        # Create a dictionary for parameters
-        param = {}
-        param['id'] = item.get('id', None)  # Use .get() to handle cases where 'id' might not exist
-        param['title'] = item.get('title', None)  # Same as above for 'title'
-        param['size_group_id'] = item.get('size_group_id', None)
-        param['size_group_ids'] = []
-        for size_id in item.get('size_group_ids'):
-            param['size_group_ids'].append(size_id)
-        param['item_count'] = item.get('item_count', None)
-        # Append the dictionary to the list
-        paramlist.append(param)
+        param['size_group_ids'] = size_group_ids_dict  # If it's already a list, use it as is
+    
+    param['item_count'] = item.get('item_count', None)
+    
+    # Append the dictionary to the list before processing subcatalogs
+    paramlist.append(param)
+    newlevel += 1
+    parent = item.get('id', None)
+    
+    
+    # Recursively process subcatalogs if they exist
+    if 'catalogs' in item and item['catalogs']:
+        for catalog_item in item['catalogs']:
+            loop(catalog_item, paramlist,newlevel, parent)
+
 
 def fetch_parameters(api_connection, item_queue):
     # Call the API and get the response data
@@ -65,7 +78,7 @@ def fetch_parameters(api_connection, item_queue):
     # Initialize an empty list to collect parameter data
     parameter_data = []
     # Call the loop function with response data and the list to fill
-    loop(response_data, parameter_data)
+    loop(response_data, parameter_data, level=0, parent=None)
     # Return the collected parameter data
     for parameter in parameter_data:
         item_queue.publish(parameter, message_type = 'save')
