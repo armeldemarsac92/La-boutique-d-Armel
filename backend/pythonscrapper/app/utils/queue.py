@@ -5,7 +5,7 @@ from utils.callback import process_message
 
 class Queue:
 
-    def __init__(self, host='rabbitmq', port=5672, username='user', password='password', queue_name='my_queue'):
+    def __init__(self, host='127.0.0.1', port=5672, username='user', password='password', queue_name='my_queue'):
         self.queue_name = queue_name
         
         # Define RabbitMQ server connection parameters

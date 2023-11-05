@@ -13,7 +13,7 @@ services:
       TRUSTED_PROXIES: ${TRUSTED_PROXIES:-127.0.0.0/8,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16}
       TRUSTED_HOSTS: ^${SERVER_NAME:-example\.com|localhost}|php$$
       # Run "composer require symfony/orm-pack" to install and configure Doctrine ORM
-      DATABASE_URL: "mysql://${MYSQL_USER}:${MYSQL_PASSWORD}@mariadb:3306/${MYSQL_DATABASE}?serverVersion={MYSQL_VERSION}&charset={MYSQL_CHARSET}"      # Run "composer require symfony/mercure-bundle" to install and configure the Mercure integration
+      DATABASE_URL: 'mysql://${MYSQL_USER}:${MYSQL_PASSWORD}@mariadb:3306/${MYSQL_DATABASE}?serverVersion=${MYSQL_VERSION}&charset=${MYSQL_CHARSET}'
       MERCURE_URL: ${CADDY_MERCURE_URL:-http://php/.well-known/mercure}
       MERCURE_PUBLIC_URL: https://${SERVER_NAME:-localhost}/.well-known/mercure
       MERCURE_JWT_SECRET: ${CADDY_MERCURE_JWT_SECRET:-!ChangeThisMercureHubJWTSecretKey!}
@@ -36,6 +36,20 @@ services:
       - target: 443
         published: ${HTTP3_PORT:-443}
         protocol: udp
+
+  mariadb:
+    image: mariadb:10.5.22
+    container_name: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mariadb_data:/var/lib/mysql
+    restart: unless-stopped
 
       
 
@@ -65,20 +79,6 @@ services:
       - "24001:24000" # First configurable proxy
     volumes:
       - ./proxymanager:/var/lib/lpm-vol/_data
-    restart: unless-stopped
-
-  mariadb:
-    image: mariadb:latest
-    container_name: mariadb
-    environment:
-      MYSQL_ROOT_PASSWORD: avlulacjvaa
-      MYSQL_DATABASE: db_test
-      MYSQL_USER: armeldemarsac
-      MYSQL_PASSWORD: avlulacjvaa
-    ports:
-      - "3306:3306"
-    volumes:
-      - ./mariadb_data:/var/lib/mysql
     restart: unless-stopped
 
   pythonscrapper:

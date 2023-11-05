@@ -1,0 +1,870 @@
+Sent '{'message_type': 'save', 'data': {'id': 1773, 'title': 'Capes & ponchos', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 229618}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2525, 'title': 'Duffle coats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 106446}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1090, 'title': 'Faux fur coats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 417915}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2526, 'title': 'Overcoats & long coats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 426295}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1087, 'title': 'Parkas', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 325515}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1076, 'title': 'Peacoats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 195694}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1080, 'title': 'Raincoats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 128295}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1834, 'title': 'Trench coats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 261781}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2524, 'title': 'Gilets & body warmers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 178463}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2527, 'title': 'Biker & racer jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 258434}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1078, 'title': 'Bomber jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 386697}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1079, 'title': 'Denim jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 660095}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2528, 'title': 'Field & utility jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 77547}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1086, 'title': 'Fleece jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 148834}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2614, 'title': 'Puffer jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 274256}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2596, 'title': 'Quilted jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 217024}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2529, 'title': 'Shackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 192254}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2530, 'title': 'Ski & snowboard jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 39885}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2531, 'title': 'Varsity jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 49111}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2532, 'title': 'Windbreakers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 123832}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 196, 'title': 'Hoodies & sweatshirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 2011406}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 190, 'title': 'V-neck jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 646040}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 191, 'title': 'Turtleneck jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 536353}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 192, 'title': 'Long jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 490043}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 529, 'title': 'Knitted jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1192434}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 193, 'title': '¾-sleeve jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 380262}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1066, 'title': 'Other jumpers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1061378}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1067, 'title': 'Kimonos', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 138225}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 194, 'title': 'Cardigans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1199162}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 195, 'title': 'Boleros', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 186374}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1874, 'title': 'Waistcoats', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 268024}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 197, 'title': 'Other jumpers & sweaters', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 789519}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 532, 'title': 'Blazers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1575868}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1125, 'title': 'Trouser suits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 122956}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1126, 'title': 'Skirt suits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 141855}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1128, 'title': 'Suit separates', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 161169}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1129, 'title': 'Other suits & blazers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 164929}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 178, 'title': 'Mini-dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3069855}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1056, 'title': 'Midi-dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 2440699}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1055, 'title': 'Long dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1277481}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1775, 'title': 'Party & cocktail dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 2116917}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1776, 'title': 'Wedding dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 298974}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1777, 'title': 'Prom dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 258073}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1778, 'title': 'Evening dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 928318}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1060, 'title': 'Backless dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 203958}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1065, 'title': 'Summer dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3394838}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1779, 'title': 'Winter dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 758583}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1057, 'title': 'Formal & work dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1033642}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1059, 'title': 'Casual dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1320491}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1061, 'title': 'Strapless dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 343948}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1058, 'title': 'Little black dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1209119}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 179, 'title': 'Denim dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 294605}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 176, 'title': 'Other dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 865108}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 198, 'title': 'Mini skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1903221}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 199, 'title': 'Midi skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 773667}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 200, 'title': 'Maxi skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 291432}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1092, 'title': 'A-line skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 369158}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1093, 'title': 'Bodycon skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 336145}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1094, 'title': 'Skater skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 237771}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 540, 'title': 'Denim skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 639354}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1097, 'title': 'Pleated skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 243562}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 539, 'title': 'High-waisted skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 221049}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 541, 'title': 'Tulip skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 76867}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 542, 'title': 'Pencil skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 299200}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 201, 'title': 'Other skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 361779}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 222, 'title': 'Shirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 2784227}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1043, 'title': 'Blouses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3786707}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 14, 'title': 'Camis', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1036909}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 221, 'title': 'T-shirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 4973445}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 534, 'title': 'Vest tops & tank tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1791704}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 227, 'title': 'Tunics', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 874220}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1041, 'title': 'Crop tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 2854590}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 223, 'title': 'Short-sleeved tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1425050}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 225, 'title': '¾-sleeve tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 823247}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 224, 'title': 'Long-sleeved tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1526532}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1835, 'title': 'Bodysuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 718212}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1042, 'title': 'Off-the-shoulder tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 976066}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1045, 'title': 'Turtlenecks', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 298037}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1837, 'title': 'Peplum tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 278147}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1044, 'title': 'Halterneck tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 283548}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 228, 'title': 'Other tops & t-shirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1055507}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1839, 'title': 'Boyfriend jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 371493}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1840, 'title': 'Cropped jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 186788}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1841, 'title': 'Flared jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 341019}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1842, 'title': 'High waisted jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 733631}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1843, 'title': 'Ripped jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 642756}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1844, 'title': 'Skinny jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1407777}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1845, 'title': 'Straight jeans', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 708384}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1864, 'title': 'Other', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 416149}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1070, 'title': 'Cropped trousers & chinos', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 561646}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1071, 'title': 'Wide-leg trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 973506}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 185, 'title': 'Skinny trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 818549}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 187, 'title': 'Tailored trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 512567}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1846, 'title': 'Straight-leg trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 805094}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 184, 'title': 'Leather trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 215359}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 525, 'title': 'Leggings', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 575107}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 526, 'title': 'Harem pants', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 116080}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 189, 'title': 'Other trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 729779}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1838, 'title': 'Low-waisted shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 430552}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1099, 'title': 'High-waisted shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 820221}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 203, 'title': 'Knee-length shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 133549}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 538, 'title': 'Denim shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 880172}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1101, 'title': 'Lace shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 76304}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1100, 'title': 'Leather shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 31494}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1103, 'title': 'Cargo shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 63047}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 204, 'title': 'Cropped trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 167120}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 205, 'title': 'Other shorts & cropped trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 394081}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1131, 'title': 'Jumpsuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 737483}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1132, 'title': 'Playsuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 890625}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1134, 'title': 'Other jumpsuits & playsuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 135810}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 218, 'title': 'One-pieces', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 232168}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 219, 'title': 'Bikinis & tankinis', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 793798}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1780, 'title': 'Cover-ups & sarongs', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 110304}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 220, 'title': 'Other swimwear & beachwear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 109557}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 119, 'title': 'Bras', 'size_group_id': 53, 'size_group_ids': [53], 'item_count': 509195}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 120, 'title': 'Panties', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 43637}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 229, 'title': 'Sets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 37019}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1781, 'title': 'Shapewear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 35336}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 123, 'title': 'Nightwear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 335138}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1030, 'title': 'Dressing gowns', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 46787}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1263, 'title': 'Tights & stockings', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 50915}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1262, 'title': 'Socks', 'size_group_id': 72, 'size_group_ids': [72], 'item_count': 45520}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1847, 'title': 'Lingerie accessories', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 106866}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 124, 'title': 'Other', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 73010}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1179, 'title': 'Maternity tops', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 148892}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1182, 'title': 'Maternity dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 112120}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1178, 'title': 'Maternity skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 21245}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1177, 'title': 'Maternity trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 159297}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1185, 'title': 'Maternity shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 19557}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1181, 'title': 'Maternity jumpsuits & playsuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 4352}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1184, 'title': 'Maternity jumpers & sweaters', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 21242}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1183, 'title': 'Maternity coats & jackets', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 8861}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1186, 'title': 'Maternity swimwear & beachwear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 5643}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1615, 'title': 'Maternity panties', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3784}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1616, 'title': 'Maternity sleepwear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3867}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1617, 'title': 'Pregnancy & postpartum belts', 'size_group_id': 30, 'size_group_ids': [30], 'item_count': 10092}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1618, 'title': 'Pregnancy & breastfeeding bras', 'size_group_id': 53, 'size_group_ids': [53], 'item_count': 12917}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2084, 'title': 'Maternity activewear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 3238}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 571, 'title': 'Outerwear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 138051}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 572, 'title': 'Tracksuits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 228236}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 573, 'title': 'Trousers', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 366433}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 578, 'title': 'Shorts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 221164}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 574, 'title': 'Dresses', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 405655}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 575, 'title': 'Skirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 139267}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 576, 'title': 'Tops & t-shirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 520983}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 577, 'title': 'Hoodies & sweatshirts', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 257011}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1440, 'title': 'Scarves', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 119190}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1441, 'title': 'Glasses', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 15012}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1442, 'title': 'Watches & wristbands', 'size_group_id': 62, 'size_group_ids': [62], 'item_count': 33990}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1443, 'title': 'Hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 33485}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1444, 'title': 'Gloves', 'size_group_id': 61, 'size_group_ids': [61], 'item_count': 25459}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1445, 'title': 'Protection / Padding', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 26691}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1446, 'title': 'Other accessories', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 29196}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1439, 'title': 'Sports bras', 'size_group_id': 53, 'size_group_ids': [53], 'item_count': 213342}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 580, 'title': 'Other activewear', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 96906}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1782, 'title': 'Costumes & special outfits', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 175394}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 18, 'title': 'Other clothing', 'size_group_id': 4, 'size_group_ids': [4], 'item_count': 1010100}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2618, 'title': 'Ankle boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 1283754}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2619, 'title': 'Mid-calf boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 112620}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 211, 'title': 'Knee-high boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 335316}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2620, 'title': 'Over-the-knee boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 23188}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2621, 'title': 'Snow boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 22529}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 213, 'title': 'Wellington boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 17146}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2622, 'title': 'Work boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 10549}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2623, 'title': 'Clogs & mules', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 173361}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 548, 'title': 'Ballerinas', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 306603}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2633, 'title': 'Boat shoes, loafers & moccasins', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 127473}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2634, 'title': 'Espadrilles', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 66034}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2635, 'title': 'Lace-up shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 223176}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2689, 'title': 'Mary Janes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 11883}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2637, 'title': 'Flat sandals', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 273899}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2636, 'title': 'Flip-flops', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 110227}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2638, 'title': 'Slides', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 70295}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2687, 'title': 'Court shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 769588}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2688, 'title': 'High-heeled sandals', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 823542}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 215, 'title': 'Slippers', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 69100}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2639, 'title': 'Basketball shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 25867}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2640, 'title': 'Climbing & bouldering shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 2083}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2641, 'title': 'Cycling shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 3386}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2642, 'title': 'Dance shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 10398}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2643, 'title': 'Football boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 9613}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2644, 'title': 'Golf shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 3169}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2645, 'title': 'Hiking boots & shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 20776}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2646, 'title': 'Ice skates', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 1362}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2647, 'title': 'Indoor football shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 384}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2648, 'title': 'Indoor training shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 103723}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2649, 'title': 'Motorcycle boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 1781}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2650, 'title': 'Roller skates & inline skates', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 6362}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2651, 'title': 'Running shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 136785}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2652, 'title': 'Ski boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 2112}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2653, 'title': 'Snowboard boots', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 1016}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2654, 'title': 'Swimming & water shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 3065}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2655, 'title': 'Tennis shoes', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 37538}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2632, 'title': 'Trainers', 'size_group_id': 7, 'size_group_ids': [7], 'item_count': 1486159}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 156, 'title': 'Handbags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 1300726}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 158, 'title': 'Shoulder bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 1089139}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 157, 'title': 'Backpacks', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 166372}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 552, 'title': 'Tote bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 199679}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 159, 'title': 'Clutches', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 391404}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 160, 'title': 'Purses & wallets', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 268192}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 161, 'title': 'Make-up bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 92809}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1784, 'title': 'Satchels', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 84205}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1848, 'title': 'Bum bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 39812}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1493, 'title': 'Patterned & embroidered bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 111498}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1849, 'title': 'Holdalls', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 26357}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1850, 'title': 'Luggage & suitcases', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 21336}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 155, 'title': 'Other bags', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 144518}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 553, 'title': 'Rings', 'size_group_id': 52, 'size_group_ids': [52], 'item_count': 319678}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 163, 'title': 'Earrings', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 1055450}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 165, 'title': 'Bracelets', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 804525}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 164, 'title': 'Necklaces, beads & pendants', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 1153266}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 166, 'title': 'Jewellery sets', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 204310}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1785, 'title': 'Anklets', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 18359}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 167, 'title': 'Brooches', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 117070}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 162, 'title': 'Other jewellery', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 159881}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 22, 'title': 'Watches', 'size_group_id': 62, 'size_group_ids': [62], 'item_count': 279795}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 20, 'title': 'Belts', 'size_group_id': 64, 'size_group_ids': [64], 'item_count': 267605}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 26, 'title': 'Sunglasses', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 296879}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 236, 'title': 'Knit scarves', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 184261}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 237, 'title': 'Headscarves', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 192551}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 238, 'title': 'Oversized scarves & shawls', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 176960}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 239, 'title': 'Shawls', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 130723}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 240, 'title': 'Other', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 83669}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 90, 'title': 'Gloves', 'size_group_id': 61, 'size_group_ids': [61], 'item_count': 52582}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 230, 'title': 'Caps', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 78776}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 231, 'title': 'Hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 123180}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 232, 'title': 'Warm hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 185879}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 233, 'title': 'Berets', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 28930}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 234, 'title': 'Headbands', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 58296}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 235, 'title': 'Other', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 27204}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1123, 'title': 'Hair accessories', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 235777}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1221, 'title': 'Tech accessories', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 439269}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1851, 'title': 'Umbrellas', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 3730}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1852, 'title': 'Keyrings', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 132102}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1140, 'title': 'Other accessories', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 505166}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 964, 'title': 'Make-up', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 303323}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 152, 'title': 'Perfume', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 66932}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 948, 'title': 'Face care', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 151283}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1903, 'title': 'Hair-styling tools', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 39335}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 950, 'title': 'Face-care tools', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 28981}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 958, 'title': 'Body-care tools', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 21087}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 962, 'title': 'Nail-care tools', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 28785}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 967, 'title': 'Make-up tools', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 47267}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1264, 'title': 'Hand care', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 26285}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 960, 'title': 'Nail care', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 74316}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 956, 'title': 'Body care', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 120546}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1902, 'title': 'Hair care', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 65707}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 153, 'title': 'Other beauty items', 'size_group_id': 4, 'size_group_ids': [], 'item_count': 61018}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1816, 'title': 'Ripped jeans', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 222420}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1817, 'title': 'Skinny jeans', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 329222}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1818, 'title': 'Slim fit jeans', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 321980}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1819, 'title': 'Straight fit jeans', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 459306}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1225, 'title': 'Duffle coats', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 53595}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2533, 'title': 'Overcoats & long coats', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 89519}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1227, 'title': 'Parkas', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 144617}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1861, 'title': 'Peacoats', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 39282}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1859, 'title': 'Raincoats', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 102606}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1230, 'title': 'Trench coats', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 64469}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2553, 'title': 'Gilets & body warmers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 40579}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2534, 'title': 'Biker & racer jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 67153}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1223, 'title': 'Bomber jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 191541}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1224, 'title': 'Denim jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 132179}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2535, 'title': 'Field & utility jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 34838}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1858, 'title': 'Fleece jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 57213}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1226, 'title': 'Harrington jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 50110}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2536, 'title': 'Puffer jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 89488}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2537, 'title': 'Quilted jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 62163}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2538, 'title': 'Shackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 35403}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2539, 'title': 'Ski & snowboard jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 22670}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2550, 'title': 'Varsity jackets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 24458}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2551, 'title': 'Windbreakers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 91768}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2552, 'title': 'Ponchos', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 1609}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1801, 'title': 'Checked shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 650562}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1802, 'title': 'Denim shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 176905}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1803, 'title': 'Plain shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 680940}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1804, 'title': 'Print shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 329698}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1805, 'title': 'Striped shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 323134}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1865, 'title': 'Other shirts', 'size_group_id': 74, 'size_group_ids': [74], 'item_count': 159644}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1806, 'title': 'Plain t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 812850}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1807, 'title': 'Print t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 1334419}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1808, 'title': 'Striped t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 241523}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1809, 'title': 'Polo shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 737123}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1810, 'title': 'Long-sleeved t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 320819}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1868, 'title': 'Other t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 152988}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 560, 'title': 'Vests & sleeveless t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 139589}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1786, 'title': 'Suit jackets & blazers', 'size_group_id': 75, 'size_group_ids': [75], 'item_count': 265078}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1787, 'title': 'Suit trousers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 139191}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1788, 'title': 'Waistcoats', 'size_group_id': 75, 'size_group_ids': [75], 'item_count': 28223}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1789, 'title': 'Suit sets', 'size_group_id': 75, 'size_group_ids': [75], 'item_count': 179705}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1790, 'title': 'Wedding suits', 'size_group_id': 75, 'size_group_ids': [75], 'item_count': 22101}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1866, 'title': 'Other suits & blazers', 'size_group_id': 75, 'size_group_ids': [75], 'item_count': 40528}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1811, 'title': 'Jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 625941}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 267, 'title': 'Hoodies & sweatshirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 662386}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1812, 'title': 'Zip-through hoodies', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 247032}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 266, 'title': 'Cardigans', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 118459}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1813, 'title': 'Crew-neck jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 379837}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 264, 'title': 'V-neck jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 191035}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 265, 'title': 'Turtle-neck jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 103212}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1814, 'title': 'Long jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 89236}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1815, 'title': 'Chunky-knit jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 139125}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1825, 'title': 'Sleeveless jumpers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 54825}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 268, 'title': 'Other', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 71563}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1820, 'title': 'Chinos', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 283683}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1821, 'title': 'Joggers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 160255}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 259, 'title': 'Skinny trousers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 131969}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 271, 'title': 'Cropped trousers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 43055}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 261, 'title': 'Tailored trousers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 124030}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 260, 'title': 'Wide-legged trousers', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 132852}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 263, 'title': 'Other', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 228809}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1822, 'title': 'Cargo shorts', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 83907}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1823, 'title': 'Chino shorts', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 119438}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1824, 'title': 'Denim shorts', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 169873}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 272, 'title': 'Other shorts', 'size_group_id': 77, 'size_group_ids': [77], 'item_count': 143821}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1829, 'title': 'Pants & boxers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 10646}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1828, 'title': 'Socks', 'size_group_id': 73, 'size_group_ids': [73], 'item_count': 28527}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1830, 'title': 'Dressing gowns', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 4587}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1867, 'title': 'Other socks & underwear', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 8235}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2911, 'title': 'One-piece pyjamas', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 223}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2912, 'title': 'Pyjama bottoms', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 537}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2913, 'title': 'Pyjama sets', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 781}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2914, 'title': 'Pyjama tops', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 269}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 84, 'title': 'Swimwear', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 147543}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 581, 'title': 'Outerwear', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 115428}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 582, 'title': 'Tracksuits', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 132066}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 583, 'title': 'Trousers', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 84352}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 586, 'title': 'Shorts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 92061}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 584, 'title': 'Tops & t-shirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 254249}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 585, 'title': 'Hoodies & sweatshirts', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 83605}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1470, 'title': 'Scarves', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 15121}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1471, 'title': 'Glasses', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 12084}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1472, 'title': 'Watches & wristbands', 'size_group_id': 62, 'size_group_ids': [62], 'item_count': 25748}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1473, 'title': 'Hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 20391}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1474, 'title': 'Gloves', 'size_group_id': 61, 'size_group_ids': [61], 'item_count': 17121}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1475, 'title': 'Protective items', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 35820}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1476, 'title': 'Other accessories', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 32754}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 588, 'title': 'Other activewear', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 53118}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 92, 'title': 'Costumes & special outfits', 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 45755}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 83, 'title': "Other men's clothing", 'size_group_id': 14, 'size_group_ids': [14], 'item_count': 173480}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2656, 'title': 'Boat shoes, loafers & moccasins', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 84990}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2661, 'title': 'Chelsea & slip-on boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 43650}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2662, 'title': 'Desert & lace-up boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 57099}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2663, 'title': 'Snow boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 5439}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1795, 'title': 'Wellington boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 1653}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2664, 'title': 'Work boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 15840}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2657, 'title': 'Espadrilles', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 5410}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2665, 'title': 'Clogs & mules', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 3690}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2666, 'title': 'Flip-flops', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 16815}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2667, 'title': 'Sandals', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 15093}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2668, 'title': 'Slides', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 10366}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2669, 'title': 'Lace-up shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 94540}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2671, 'title': 'Monk strap shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 5371}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2670, 'title': 'Slip-on shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 19925}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2659, 'title': 'Slippers', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 10145}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2672, 'title': 'Basketball shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 44281}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2673, 'title': 'Climbing & bouldering shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 1052}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2674, 'title': 'Cycling shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 5005}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2675, 'title': 'Dance shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 392}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2676, 'title': 'Football boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 28352}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2677, 'title': 'Golf shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 3385}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2678, 'title': 'Hiking boots & shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 10206}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2679, 'title': 'Ice skates', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 935}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2680, 'title': 'Indoor football shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 7681}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1467, 'title': 'Indoor training shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 61762}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2681, 'title': 'Motorcycle boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 2272}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2682, 'title': 'Roller skates & inline skates', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 2240}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1453, 'title': 'Running shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 77386}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2683, 'title': 'Ski boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 1652}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2684, 'title': 'Snowboard boots', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 603}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2685, 'title': 'Swimming & water shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 1347}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2686, 'title': 'Tennis shoes', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 17131}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1242, 'title': 'Trainers', 'size_group_id': 38, 'size_group_ids': [38], 'item_count': 593019}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 93, 'title': 'Ties & pocket squares', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 134240}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 245, 'title': 'Handbags', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 78517}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 247, 'title': 'Shoulder bags', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 91937}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 246, 'title': 'Backpacks', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 39293}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1797, 'title': 'Satchels', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 32211}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1798, 'title': 'Holdalls', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 12753}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1799, 'title': 'Bum bags', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 17994}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 248, 'title': 'Wallets', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 38149}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1862, 'title': 'Luggage', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 13137}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 249, 'title': 'Other', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 32526}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 241, 'title': 'Necklaces & pendants', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 172990}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 242, 'title': 'Rings', 'size_group_id': 52, 'size_group_ids': [52], 'item_count': 18267}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 243, 'title': 'Bracelets', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 63146}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 244, 'title': 'Other', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 33172}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1800, 'title': 'Cufflinks', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 10754}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 96, 'title': 'Belts', 'size_group_id': 63, 'size_group_ids': [63], 'item_count': 43057}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 97, 'title': 'Watches', 'size_group_id': 62, 'size_group_ids': [62], 'item_count': 135525}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 98, 'title': 'Sunglasses', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 65770}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 287, 'title': 'Caps', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 129597}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 288, 'title': 'Hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 42933}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 289, 'title': 'Winter hats', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 48697}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 290, 'title': 'Berets', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 5353}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 291, 'title': 'Other', 'size_group_id': 60, 'size_group_ids': [60], 'item_count': 12439}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 283, 'title': 'Knitted scarves', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 27596}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 284, 'title': 'Headscarves', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 19841}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 285, 'title': 'Large scarves & shawls', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 29926}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 286, 'title': 'Other', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 13560}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 91, 'title': 'Gloves', 'size_group_id': 61, 'size_group_ids': [61], 'item_count': 13367}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 99, 'title': 'Other', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 209362}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 143, 'title': 'Face care', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 9485}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1826, 'title': 'Shaving tools', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 3695}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1827, 'title': 'Grooming tools', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 2334}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 971, 'title': 'Other tools', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 769}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 140, 'title': 'Hair care', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 7117}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 141, 'title': 'Body care', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 8824}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 142, 'title': 'Hand & nail care', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 217}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 145, 'title': 'Aftershave & cologne', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 16296}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 144, 'title': 'Make-up', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 285}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1863, 'title': 'Grooming kits', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 2321}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 968, 'title': 'Other grooming items', 'size_group_id': 14, 'size_group_ids': [], 'item_count': 3918}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1514, 'title': 'Rompers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 535608}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1515, 'title': 'Bodysuits', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 759973}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1516, 'title': 'Dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 342054}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1517, 'title': 'Sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 1103841}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1875, 'title': "Other baby girls' clothing", 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 732472}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1525, 'title': 'Baby shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 363923}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2695, 'title': 'Ankle boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 96912}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2696, 'title': 'Mid-calf boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 102335}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2697, 'title': 'Snow boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 33633}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2698, 'title': 'Wellington boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 34814}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2690, 'title': 'Clogs & mules', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 10618}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2753, 'title': 'Ballerinas, Mary Janes & T-bar shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 67512}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2701, 'title': 'Espadrilles', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 15662}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2702, 'title': 'Lace-up shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 53375}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2704, 'title': 'Flip-flops', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 25762}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2705, 'title': 'Sandals', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 268922}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2707, 'title': 'Slides', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 21179}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1528, 'title': 'Formal & special occasion shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 64024}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2692, 'title': 'Heels', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 21715}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1534, 'title': 'Slippers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 145787}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2708, 'title': 'Basketball shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 16349}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2709, 'title': 'Dance shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 10409}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2710, 'title': 'Football boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 8312}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2711, 'title': 'Hiking boots & shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 14718}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2712, 'title': 'Ice skates', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 1711}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2713, 'title': 'Roller skates & inline skates', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 9512}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2714, 'title': 'Running shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 27257}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2715, 'title': 'Ski boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 564}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2716, 'title': 'Snowboard boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 88}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2717, 'title': 'Swimming & water shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 13857}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2718, 'title': 'Hook-and-loop trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 109901}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2719, 'title': 'Lace-up trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 127292}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2720, 'title': 'Slip-on trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 57903}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2540, 'title': 'Duffle coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 97529}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2541, 'title': 'Parkas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 98197}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2542, 'title': 'Peacoats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 43028}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2543, 'title': 'Trench coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 38051}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1518, 'title': 'Gilets & body warmers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 360653}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2544, 'title': 'Blazers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 89187}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2545, 'title': 'Bomber jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 80865}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2546, 'title': 'Denim jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 118732}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2547, 'title': 'Fleece jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 85833}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2548, 'title': 'Puffer jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 144093}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2549, 'title': 'Windbreakers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 95475}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2556, 'title': 'Ponchos', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 34445}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2557, 'title': 'Rain suits & sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 8094}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2555, 'title': 'Rain trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 3618}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2558, 'title': 'Raincoats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 128360}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2560, 'title': 'Snow jackets & coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 67567}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2565, 'title': 'Snow suits & sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 96207}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2582, 'title': 'Snow trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 23884}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1542, 'title': 'Jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 1031749}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1543, 'title': 'V-neck jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 74220}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1544, 'title': 'Turtleneck jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 176982}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1548, 'title': 'Zip-up jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 395960}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1549, 'title': 'Boleros', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 152344}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1550, 'title': 'Hoodies & sweatshirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 625587}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1551, 'title': 'Sleeveless jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 479384}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1877, 'title': 'Other jumpers & hoodies', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 160725}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1535, 'title': 'T-shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 2400726}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1536, 'title': 'Polo shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 133642}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1537, 'title': 'Shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 349465}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1538, 'title': 'Short-sleeved tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 408747}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1539, 'title': 'Long-sleeved tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 927557}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1540, 'title': 'Sleeveless tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 348462}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1541, 'title': 'Tunics', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 216961}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1878, 'title': 'Other tops & T-shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 262186}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1554, 'title': 'Short dresses', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 3060404}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1553, 'title': 'Long dresses', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 747430}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1248, 'title': 'Skirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 1005254}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1559, 'title': 'Jeans', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 898343}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1560, 'title': 'Skinny trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 402358}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1562, 'title': 'Wide-leg trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 234181}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1565, 'title': 'Leggings', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 736217}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1568, 'title': 'Jumpsuits & dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 419532}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1250, 'title': 'Shorts & cropped trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 961214}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2079, 'title': 'Harem pants', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 110880}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1880, 'title': 'Other trousers, shorts & dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 424990}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1258, 'title': 'Bags & backpacks', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 125753}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1577, 'title': 'Caps & hats', 'size_group_id': 43, 'size_group_ids': [43], 'item_count': 425965}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1578, 'title': 'Gloves', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 41747}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1580, 'title': 'Scarves & shawls', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 91359}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1581, 'title': 'Belts', 'size_group_id': 70, 'size_group_ids': [70], 'item_count': 19636}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1582, 'title': 'Hairbands & hairclips', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 110075}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1584, 'title': 'Wallets & purses', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 46043}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1586, 'title': 'Jewellery', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 113989}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1881, 'title': 'Other accessories', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 102752}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1590, 'title': 'One-piece swimsuits', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 207059}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1592, 'title': 'Bikinis & tankinis', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 136173}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1593, 'title': 'Bathrobes', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 55509}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1600, 'title': 'Socks', 'size_group_id': 71, 'size_group_ids': [71], 'item_count': 76231}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1601, 'title': 'Tights & leggings', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 87239}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1602, 'title': 'Underwear', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 8741}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1872, 'title': 'Other underwear & socks', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 64748}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1596, 'title': 'One-piece pyjamas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 452442}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1597, 'title': 'Two-piece pyjamas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 235233}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1598, 'title': 'Nighties', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 52871}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1253, 'title': 'Activewear', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 351624}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1510, 'title': 'Clothing bundles', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 298841}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1604, 'title': 'Clothing for twins', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 46485}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1606, 'title': 'Fancy dress & costumes', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 136434}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2080, 'title': 'Formal wear & special occasion clothing', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 228801}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1254, 'title': "Other girls' clothing", 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 348476}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1642, 'title': 'Rompers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 496880}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1643, 'title': 'Bodysuits', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 711625}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1644, 'title': 'Dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 374356}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1645, 'title': 'Sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 890028}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1883, 'title': "Other baby boys' clothing", 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 559375}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1653, 'title': 'Baby shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 369155}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2721, 'title': 'Boat shoes, loafers & moccasins', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 27347}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2726, 'title': 'Ankle boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 55920}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2727, 'title': 'Mid-calf boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 58566}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2728, 'title': 'Snow boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 29051}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2729, 'title': 'Wellington boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 38123}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2722, 'title': 'Espadrilles', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 8646}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2730, 'title': 'Clogs & mules', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 13385}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2732, 'title': 'Flip-flops', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 23057}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2733, 'title': 'Sandals', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 197378}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2734, 'title': 'Slides', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 22174}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1655, 'title': 'Formal & special occasion shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 61809}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1661, 'title': 'Slippers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 146031}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2735, 'title': 'Basketball shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 21079}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2737, 'title': 'Dance shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 1734}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2738, 'title': 'Football boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 53204}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2742, 'title': 'Hiking boots & shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 18757}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2743, 'title': 'Ice skates', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 808}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2744, 'title': 'Roller skates & inline skates', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 5969}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2745, 'title': 'Running shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 30503}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2746, 'title': 'Ski boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 1067}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2748, 'title': 'Snowboard boots', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 103}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2749, 'title': 'Swimming & water shoes', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 16145}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2750, 'title': 'Hook-and-loop trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 122502}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2751, 'title': 'Lace-up trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 126655}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2752, 'title': 'Slip-on trainers', 'size_group_id': 31, 'size_group_ids': [31], 'item_count': 61313}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2561, 'title': 'Duffle coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 58169}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2562, 'title': 'Parkas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 69276}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2563, 'title': 'Peacoats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 20316}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2564, 'title': 'Trench coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 15435}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1646, 'title': 'Gilets & body warmers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 273047}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2571, 'title': 'Blazers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 63618}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2573, 'title': 'Bomber jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 84277}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2574, 'title': 'Denim jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 46669}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2575, 'title': 'Fleece jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 70111}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2576, 'title': 'Puffer jackets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 125649}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2577, 'title': 'Windbreakers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 122454}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2604, 'title': 'Ponchos', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 2550}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2609, 'title': 'Rain suits & sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 10409}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2602, 'title': 'Rain trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 4883}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2606, 'title': 'Raincoats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 110073}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2610, 'title': 'Snow jackets & coats', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 55292}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2613, 'title': 'Snow suits & sets', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 83138}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2612, 'title': 'Snow trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 26796}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1668, 'title': 'Jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 922214}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1669, 'title': 'V-neck jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 119379}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1670, 'title': 'Turtleneck jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 100655}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1671, 'title': 'Zip-up jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 526284}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1672, 'title': 'Hoodies & sweatshirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 781065}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1673, 'title': 'Sleeveless jumpers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 180950}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1887, 'title': 'Other jumpers & hoodies', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 145454}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1662, 'title': 'T-shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 2187013}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1663, 'title': 'Polo shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 517131}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1664, 'title': 'Shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 652737}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1665, 'title': 'Short-sleeved tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 256138}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1666, 'title': 'Long-sleeved tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 936391}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1667, 'title': 'Sleeveless tops', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 95160}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1886, 'title': 'Other tops & T-shirts', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 178472}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1696, 'title': 'Jeans', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 915908}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1697, 'title': 'Skinny trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 244120}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1698, 'title': 'Wide-leg trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 236113}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1701, 'title': 'Leggings', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 159448}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1702, 'title': 'Jumpsuits & dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 268241}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1201, 'title': 'Shorts & cropped trousers', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 957546}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2082, 'title': 'Harem pants', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 82447}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1870, 'title': 'Other trousers, shorts & dungarees', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 464296}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1257, 'title': 'Bags & backpacks', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 47798}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1749, 'title': 'Caps & hats', 'size_group_id': 43, 'size_group_ids': [43], 'item_count': 362989}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1740, 'title': 'Gloves', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 35530}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1741, 'title': 'Scarves & shawls', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 55644}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1743, 'title': 'Belts', 'size_group_id': 70, 'size_group_ids': [70], 'item_count': 17283}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1745, 'title': 'Wallets', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 11589}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1746, 'title': 'Ties & bow ties', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 10847}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1748, 'title': 'Other accessories', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 80254}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1750, 'title': 'Swimming trunks', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 241485}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1751, 'title': 'Bathrobes', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 53943}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1757, 'title': 'Socks', 'size_group_id': 71, 'size_group_ids': [71], 'item_count': 62304}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1758, 'title': 'Tights & leggings', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 19292}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1759, 'title': 'Underwear', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 7911}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1871, 'title': 'Other underwear & socks', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 44028}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1754, 'title': 'One-piece pyjamas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 444189}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1755, 'title': 'Two-piece pyjamas', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 191410}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1204, 'title': 'Activewear', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 476944}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1760, 'title': 'Clothing bundles', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 223347}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1761, 'title': 'Clothing for twins', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 36316}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1762, 'title': 'Fancy dress & costumes', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 54847}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2083, 'title': 'Formal wear & special occasion clothing', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 126200}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1205, 'title': "Other boys' clothing", 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 211946}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1730, 'title': 'Action figures', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 853798}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1725, 'title': 'Electronic games', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 123590}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1731, 'title': 'Dolls', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 362919}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1763, 'title': 'Educational toys & games', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 593970}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1764, 'title': 'Soft toys & stuffed animals', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 681245}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1765, 'title': 'Rattles & chew toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 132043}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1766, 'title': 'Musical toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 157398}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1767, 'title': 'Construction toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 356216}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1768, 'title': 'Wooden toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 129739}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1769, 'title': 'Hanging mobiles', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 105773}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1770, 'title': 'Water toys & games', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 30148}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1771, 'title': 'Outdoor toys & games', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 89615}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2085, 'title': 'Kitchen toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 24013}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2086, 'title': 'Sleeping toys', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 102242}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1622, 'title': 'Blankets', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 119009}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1623, 'title': 'Pillows', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 49844}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1624, 'title': 'Throws', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 46777}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1625, 'title': 'Sleeping bags', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 197411}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1626, 'title': 'Bedding', 'size_group_id': 68, 'size_group_ids': [68], 'item_count': 23895}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1627, 'title': 'Heating pads & electric blankets', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 8326}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1628, 'title': 'Cutlery', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 9849}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1629, 'title': 'Baby bottles', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 54798}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1630, 'title': 'Pacifiers, dummies & soothers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 34244}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1631, 'title': 'Dishes', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 30444}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1633, 'title': 'Flasks & bottle warmers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 20364}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1640, 'title': 'Other nursing & feeding items', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 44751}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2088, 'title': 'Feeding pillows', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 11840}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1674, 'title': 'Baby carriers & wraps', 'size_group_id': 29, 'size_group_ids': [29], 'item_count': 86910}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1675, 'title': 'Swimming equipment', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 59617}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1678, 'title': 'Nappies', 'size_group_id': 26, 'size_group_ids': [26], 'item_count': 26786}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1679, 'title': 'Baby hygiene', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 20994}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1680, 'title': 'Baby changing bags', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 41335}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2087, 'title': 'Nappy waste containers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 5430}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1682, 'title': 'Baby monitors', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 12211}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1683, 'title': 'Food heaters', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 17288}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1684, 'title': 'Breast pumps & accessories', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 46491}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1685, 'title': 'Sterilisers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 17999}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1686, 'title': 'Thermometers & scales', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 11529}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1688, 'title': 'Bouncers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 18880}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1689, 'title': 'Swings', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 9097}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1690, 'title': 'Bibs', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 57168}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1691, 'title': 'Potties', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 7927}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1695, 'title': 'Childproofing gates & guards', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 9764}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1700, 'title': 'Car sun shades & screens', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 6568}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1703, 'title': 'Cycling & roller skating safety equipment', 'size_group_id': 29, 'size_group_ids': [29], 'item_count': 23910}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1772, 'title': 'Other childproofing & safety equipment', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 22440}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1512, 'title': 'Umbrella buggies', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 26970}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1611, 'title': 'Running & sport buggies', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 6397}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1612, 'title': 'Universal buggies', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 46735}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1613, 'title': 'Buggies for twins', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 4270}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1511, 'title': 'Buggy accessories', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 103102}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1599, 'title': 'Baby walkers', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 18060}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1603, 'title': 'Push & pull toys', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 18057}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1595, 'title': 'Bicycle seats & trailers', 'size_group_id': 27, 'size_group_ids': [27], 'item_count': 4067}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1605, 'title': 'Scooters', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 14443}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1607, 'title': 'Tricycles', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 7718}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1608, 'title': 'Bicycles', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 29606}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1609, 'title': 'Outdoor vehicles', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 13363}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1610, 'title': 'Sledges, skis & snowboards', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 4868}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1503, 'title': 'Car chairs', 'size_group_id': 27, 'size_group_ids': [27], 'item_count': 53847}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1504, 'title': 'Feeding chairs', 'size_group_id': 27, 'size_group_ids': [], 'item_count': 16245}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1561, 'title': 'Cribs & cradles', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 22306}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1563, 'title': 'Cots', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 22332}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1566, 'title': 'Toddler beds', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 16890}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1569, 'title': 'Cot mattresses', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 6205}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1570, 'title': 'Crib & cradle mattresses', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 21578}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1571, 'title': 'Kid bed mattresses', 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 6876}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1572, 'title': 'Playmats', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 43478}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1573, 'title': 'Playpens', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 8318}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1575, 'title': 'Changing pads & tables', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 9852}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1579, 'title': 'Chairs', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 19798}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1585, 'title': 'Tables', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 10915}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1587, 'title': 'Carpets', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 7447}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1588, 'title': 'Wardrobes', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 7780}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1589, 'title': 'Shelves', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 20499}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1591, 'title': 'Play furniture', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 32750}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1508, 'title': 'School bags', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 129682}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1509, 'title': 'School supplies', 'size_group_id': 32, 'size_group_ids': [], 'item_count': 278680}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1502, 'title': "Other kids' items", 'size_group_id': 32, 'size_group_ids': [32], 'item_count': 1043426}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1942, 'title': 'Bedding sets', 'size_group_id': 69, 'size_group_ids': [69], 'item_count': 13881}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1943, 'title': 'Duvet covers', 'size_group_id': 69, 'size_group_ids': [69], 'item_count': 10239}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1944, 'title': 'Pillowcases', 'size_group_id': 66, 'size_group_ids': [66], 'item_count': 9948}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1945, 'title': 'Sheets', 'size_group_id': 55, 'size_group_ids': [55], 'item_count': 6455}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1925, 'title': 'Blankets', 'size_group_id': 67, 'size_group_ids': [67], 'item_count': 44845}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1946, 'title': 'Opaque curtains & drapes', 'size_group_id': 65, 'size_group_ids': [65], 'item_count': 35376}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1955, 'title': 'Sheer curtains & drapes', 'size_group_id': 65, 'size_group_ids': [65], 'item_count': 44979}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1974, 'title': 'Cushions', 'size_group_id': 59, 'size_group_ids': [59], 'item_count': 107365}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1953, 'title': 'Doormats & floor mats', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 8548}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1954, 'title': 'Rugs', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 19297}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1928, 'title': 'Table linen', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 104549}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1929, 'title': 'Tapestries & wall hangings', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 61168}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1947, 'title': 'Bath towels', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 9182}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1948, 'title': 'Beach towels', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 5276}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1949, 'title': 'Hand towels', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 7336}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1957, 'title': 'Candle holders', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 132606}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1956, 'title': 'Candles', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 82077}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1966, 'title': 'Table clocks', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 18138}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1967, 'title': 'Wall clocks', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 20238}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1941, 'title': 'Display shelves', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 89669}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1937, 'title': 'Picture & photo frames', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 244514}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1969, 'title': 'Table mirrors', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 13447}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1968, 'title': 'Wall mirrors', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 20587}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1962, 'title': 'Baskets', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 55350}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1963, 'title': 'Boxes', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 92272}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2012, 'title': 'Clothes bags & hangers', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 28342}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1964, 'title': 'Jewellery organisers', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 57519}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1965, 'title': 'Make-up organisers', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 16543}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1940, 'title': 'Vases', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 124930}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1950, 'title': 'Cutlery sets', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 26277}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1951, 'title': 'Forks', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 6269}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1970, 'title': 'Table knives', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 4146}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1952, 'title': 'Spoons', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 11629}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1958, 'title': 'Dinner sets', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 50340}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1959, 'title': 'Bowls', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 61971}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1960, 'title': 'Plates', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 67269}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 1961, 'title': 'Trays', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 42311}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2006, 'title': 'Cups & mugs', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 160784}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2007, 'title': 'Coffeepots & teapots', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 31731}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2008, 'title': 'Jugs', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 47034}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2009, 'title': 'Stemmed glasses', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 37779}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2010, 'title': 'Tumblers', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 47808}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2011, 'title': 'Drinkware sets', 'size_group_id': 55, 'size_group_ids': [], 'item_count': 36064}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2378, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 11020}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2379, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2918}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2380, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 12104}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2381, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 29176}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2382, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2242}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2383, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 10230}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2384, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 36449}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2385, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2256}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2386, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 10297}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2390, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 12509}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2391, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1729}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2392, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 9679}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2399, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 123603}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2402, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 8075}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2405, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 11338}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2406, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 134695}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2407, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 6130}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2409, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 13438}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2412, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 25377}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2420, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3937}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2421, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 15021}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2431, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 48333}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2447, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 4955}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2448, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 11463}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2449, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 36182}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2450, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2610}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2451, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 8605}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2452, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 15531}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2453, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1421}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2454, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 4427}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2455, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 27617}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2456, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3059}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2458, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 6420}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2474, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 10562}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2475, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 910}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2476, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 15010}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2368, 'title': 'PC games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 53431}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2465, 'title': 'Games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3949}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2466, 'title': 'Consoles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3000}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2469, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 14428}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2459, 'title': 'Steam', 'size_group_id': None, 'size_group_ids': [], 'item_count': 543}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2460, 'title': 'Intellivision', 'size_group_id': None, 'size_group_ids': [], 'item_count': 183}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2461, 'title': 'Atari', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2187}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2462, 'title': 'ColecoVision', 'size_group_id': None, 'size_group_ids': [], 'item_count': 103}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2463, 'title': 'Commodore', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1693}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2464, 'title': '3DO', 'size_group_id': None, 'size_group_ids': [], 'item_count': 214}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2321, 'title': 'Board games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 404291}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2477, 'title': 'Tile-based games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 57926}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2322, 'title': 'Card games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 356596}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2478, 'title': 'Jigsaw puzzles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 333265}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2479, 'title': 'Brain teasers & puzzles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 39461}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2480, 'title': 'Travel & pocket games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 38989}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2481, 'title': 'Tabletop & miniature gaming', 'size_group_id': None, 'size_group_ids': [], 'item_count': 71106}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2482, 'title': 'Stacking & balancing games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 27059}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2483, 'title': 'Floor games', 'size_group_id': None, 'size_group_ids': [], 'item_count': 41537}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2328, 'title': 'CDs', 'size_group_id': None, 'size_group_ids': [], 'item_count': 314848}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2329, 'title': 'Cassettes', 'size_group_id': None, 'size_group_ids': [], 'item_count': 22716}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2330, 'title': 'Vinyl', 'size_group_id': None, 'size_group_ids': [], 'item_count': 192988}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2332, 'title': 'Older audio formats', 'size_group_id': None, 'size_group_ids': [], 'item_count': 29519}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2521, 'title': 'Blu-ray', 'size_group_id': None, 'size_group_ids': [], 'item_count': 40997}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2333, 'title': 'DVD', 'size_group_id': None, 'size_group_ids': [], 'item_count': 531082}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2334, 'title': 'VHS', 'size_group_id': None, 'size_group_ids': [], 'item_count': 38664}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2336, 'title': 'Classical literature', 'size_group_id': None, 'size_group_ids': [], 'item_count': 349436}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2337, 'title': 'Comics & graphic novels', 'size_group_id': None, 'size_group_ids': [], 'item_count': 412062}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2338, 'title': 'Contemporary fiction', 'size_group_id': None, 'size_group_ids': [], 'item_count': 378509}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2339, 'title': 'Crime & thrillers', 'size_group_id': None, 'size_group_ids': [], 'item_count': 444134}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2340, 'title': 'Humour', 'size_group_id': None, 'size_group_ids': [], 'item_count': 93976}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2341, 'title': 'Poetry & drama', 'size_group_id': None, 'size_group_ids': [], 'item_count': 61085}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2342, 'title': 'Romance', 'size_group_id': None, 'size_group_ids': [], 'item_count': 520070}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2343, 'title': 'Science fiction & fantasy', 'size_group_id': None, 'size_group_ids': [], 'item_count': 284274}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2344, 'title': 'Other literature & fiction', 'size_group_id': None, 'size_group_ids': [], 'item_count': 226413}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2345, 'title': 'Arts & entertainment', 'size_group_id': None, 'size_group_ids': [], 'item_count': 111734}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2346, 'title': 'Biography', 'size_group_id': None, 'size_group_ids': [], 'item_count': 147151}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2347, 'title': 'Business & finance', 'size_group_id': None, 'size_group_ids': [], 'item_count': 42888}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2348, 'title': 'Computers & tech', 'size_group_id': None, 'size_group_ids': [], 'item_count': 13674}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2349, 'title': 'Food & drink', 'size_group_id': None, 'size_group_ids': [], 'item_count': 223717}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2350, 'title': 'Health & wellbeing', 'size_group_id': None, 'size_group_ids': [], 'item_count': 158522}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2351, 'title': 'History', 'size_group_id': None, 'size_group_ids': [], 'item_count': 132575}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2352, 'title': 'Hobbies, crafts & DIY', 'size_group_id': None, 'size_group_ids': [], 'item_count': 92033}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2353, 'title': 'Parenting & family', 'size_group_id': None, 'size_group_ids': [], 'item_count': 153582}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2354, 'title': 'Politics & society', 'size_group_id': None, 'size_group_ids': [], 'item_count': 61401}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2355, 'title': 'Professional & technical', 'size_group_id': None, 'size_group_ids': [], 'item_count': 148867}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2356, 'title': 'Reference', 'size_group_id': None, 'size_group_ids': [], 'item_count': 55813}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2357, 'title': 'Religion & spirituality', 'size_group_id': None, 'size_group_ids': [], 'item_count': 53318}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2358, 'title': 'Science & nature', 'size_group_id': None, 'size_group_ids': [], 'item_count': 105843}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2359, 'title': 'Sports', 'size_group_id': None, 'size_group_ids': [], 'item_count': 35878}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2360, 'title': 'Study materials & textbooks', 'size_group_id': None, 'size_group_ids': [], 'item_count': 540376}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2361, 'title': 'Travel', 'size_group_id': None, 'size_group_ids': [], 'item_count': 58096}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2362, 'title': 'Other non-fiction', 'size_group_id': None, 'size_group_ids': [], 'item_count': 135963}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2363, 'title': 'Young adults', 'size_group_id': None, 'size_group_ids': [], 'item_count': 579057}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2364, 'title': 'Kids', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1082884}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2365, 'title': 'Babies & toddlers', 'size_group_id': None, 'size_group_ids': [], 'item_count': 148923}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2512, 'title': 'Beds', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 2927}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2511, 'title': 'Blankets', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1727}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2119, 'title': 'Coats & jackets', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 15944}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2484, 'title': 'Jumpers', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 9210}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2517, 'title': 'T-shirts', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 5604}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2518, 'title': 'Costumes', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 2924}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2120, 'title': 'Shoes & boots', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 1160}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2121, 'title': 'Accessories', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 12328}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2515, 'title': 'Balls & fetch toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3132}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2514, 'title': 'Soft toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 29325}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2513, 'title': 'Tough & durable toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3644}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2122, 'title': 'Collars', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 14053}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2124, 'title': 'Harnesses', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 13665}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2123, 'title': 'Leashes', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 7346}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2516, 'title': 'Muzzles', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 834}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2510, 'title': 'Whistles', 'size_group_id': None, 'size_group_ids': [], 'item_count': 239}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2509, 'title': 'Bags', 'size_group_id': None, 'size_group_ids': [], 'item_count': 965}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2117, 'title': 'Bowls', 'size_group_id': None, 'size_group_ids': [], 'item_count': 4268}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2118, 'title': 'Feeders', 'size_group_id': None, 'size_group_ids': [], 'item_count': 903}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2508, 'title': 'Travel carriers', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 4025}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2507, 'title': 'Crates', 'size_group_id': 57, 'size_group_ids': [57], 'item_count': 652}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2506, 'title': 'Brushes & combs', 'size_group_id': None, 'size_group_ids': [], 'item_count': 4059}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2505, 'title': 'Claw care', 'size_group_id': None, 'size_group_ids': [], 'item_count': 689}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2099, 'title': 'Bowls', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2140}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2126, 'title': 'Feeders', 'size_group_id': None, 'size_group_ids': [], 'item_count': 649}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2500, 'title': 'Teasers & wands', 'size_group_id': None, 'size_group_ids': [], 'item_count': 423}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2501, 'title': 'Balls', 'size_group_id': None, 'size_group_ids': [], 'item_count': 888}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2502, 'title': 'Soft toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 9319}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2503, 'title': 'Scratchers', 'size_group_id': None, 'size_group_ids': [], 'item_count': 619}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2504, 'title': 'Interactive toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 8532}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2133, 'title': 'Collars', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1480}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2134, 'title': 'Harnesses & leashes', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2680}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2097, 'title': 'Beds', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1792}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2499, 'title': 'Soft carriers & backpacks', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1450}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2498, 'title': 'Hard carriers', 'size_group_id': None, 'size_group_ids': [], 'item_count': 192}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2128, 'title': 'Clothing', 'size_group_id': None, 'size_group_ids': [], 'item_count': 695}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2129, 'title': 'Costumes', 'size_group_id': None, 'size_group_ids': [], 'item_count': 56}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2130, 'title': 'Accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 3373}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2489, 'title': 'Litter boxes', 'size_group_id': None, 'size_group_ids': [], 'item_count': 600}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2496, 'title': 'Brushes & combs', 'size_group_id': None, 'size_group_ids': [], 'item_count': 603}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2497, 'title': 'Claw care', 'size_group_id': None, 'size_group_ids': [], 'item_count': 83}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2140, 'title': 'Habitats & accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 7365}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2142, 'title': 'Toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 10065}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2491, 'title': 'Aquarium equipment', 'size_group_id': None, 'size_group_ids': [], 'item_count': 2490}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2490, 'title': 'Decorations & accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 8240}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2492, 'title': 'Toys', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1430}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2493, 'title': 'Cages & accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 1413}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2494, 'title': 'Decorations & accessories', 'size_group_id': None, 'size_group_ids': [], 'item_count': 5740}}' to item_data
+Sent '{'message_type': 'save', 'data': {'id': 2495, 'title': 'Terrarium equipment', 'size_group_id': None, 'size_group_ids': [], 'item_count': 549}}' to item_data

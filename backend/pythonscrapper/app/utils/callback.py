@@ -27,11 +27,50 @@ def process_message(ch, method, properties, body, api_connection, item_queue):
             ch.basic_ack(delivery_tag=method.delivery_tag)
         except Exception as e:
             print(f"Failed to fetch data, check the proxy manager logs for more informations : {e}")
+
+    elif message['message_type'] == 'fetch_parameters':
+        print('fetching parameters')
+        try :
+            fetch_parameters(api_connection, item_queue)
+            ch.basic_ack(delivery_tag=method.delivery_tag)
+        except Exception as e:
+            print(f"Failed to fetch parameters, check the proxy manager logs for more informations : {e}")
+       
         
     #elif message['message_type'] == 'fetch_urls':
         
 
-        
+def loop(item, paramlist):
+    # Check if the 'catalog' key has items in it
+    if 'catalogs' in item and len(item['catalogs']) > 0:
+        for catalog_item in item['catalogs']:
+            # Recursively call loop on each item in the catalog
+            loop(catalog_item, paramlist)
+    else:
+        # Create a dictionary for parameters
+        param = {}
+        param['id'] = item.get('id', None)  # Use .get() to handle cases where 'id' might not exist
+        param['title'] = item.get('title', None)  # Same as above for 'title'
+        param['size_group_id'] = item.get('size_group_id', None)
+        param['size_group_ids'] = []
+        for size_id in item.get('size_group_ids'):
+            param['size_group_ids'].append(size_id)
+        param['item_count'] = item.get('item_count', None)
+        # Append the dictionary to the list
+        paramlist.append(param)
+
+def fetch_parameters(api_connection, item_queue):
+    # Call the API and get the response data
+    response_data = api_connection.call("/api/v2/catalogs")
+    # Initialize an empty list to collect parameter data
+    parameter_data = []
+    # Call the loop function with response data and the list to fill
+    loop(response_data, parameter_data)
+    # Return the collected parameter data
+    for parameter in parameter_data:
+        item_queue.publish(parameter, message_type = 'save')
+
+
 
 
 def fetch_data(api_connection, item_queue, message):
@@ -80,4 +119,3 @@ def fetch_data(api_connection, item_queue, message):
 
     item_queue.publish(data, message_type = 'save')
     
-      

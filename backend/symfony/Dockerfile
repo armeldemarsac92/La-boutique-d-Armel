@@ -32,6 +32,9 @@ RUN set -eux; \
 		zip \
 	;
 
+RUN install-php-extensions pdo_mysql mysqli
+
+
 ###> recipes ###
 ###> doctrine/doctrine-bundle ###
 RUN apk add --no-cache --virtual .pgsql-deps postgresql-dev; \
